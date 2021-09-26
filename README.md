@@ -9,7 +9,7 @@ Detailed project specifications [here](https://review.udacity.com/#!/rubrics/265
 1. HTML
 2. CSS
 3. JAVASCRIPT
-4. 
+ 
 ## sources i used
 [MDN](https://developer.mozilla.org/en-US/)
 
